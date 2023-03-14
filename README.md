@@ -9,7 +9,7 @@
 </div>
 
 ---
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=victorhbellini&bg_color=0d1117&color=038bbb&line=038bbb&point=2b364a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VictorHBellini&bg_color=0d1117&color=038bbb&line=038bbb&point=2b364a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 <img align="right" alt="Kobayashi" height="250px" src="https://i.pinimg.com/originals/3a/c2/74/3ac274ae7d692986448dda2970008fdd.gif" />
